@@ -23,7 +23,7 @@ book("William Faunlkner", "The Sound and the Fury", "Modernist novel", 1929).
 book("J.R.R. Tolkin", "The Fellowship of the Ring", "Fantasy", 1954).
 book("J.R.R. Tolkin", "Two Towers", "Fantasy", 1954).
 book("J.R.R. Tolkin", "The Return of the King", "Fantasy", 1955).
-
+book("Alexandre Dumas", "The Count of Monte Cristo", "Adventure", 1844).
 
 search :-
             writeln("Welcome to catalog"), optionActivity. %just main query
